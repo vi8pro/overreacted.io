@@ -1,5 +1,5 @@
 ---
-title: "The Two Reacts"
+title: "Hello World"
 date: '2024-01-04'
 spoiler: "UI = f(data)(state)"
 ---
