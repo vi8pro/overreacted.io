@@ -8,4 +8,4 @@ Thật không biết nói gì hơn vì tôi vốn không phải là kẻ hay vi�
 
 Nhưng cuối cùng tôi đã chọn nó vì sự đơn giản. Cũng bởi vì tôi không có đủ khả năng để làm một theme yêu cầu nhiều những hình ảnh. Sẽ thật mệt mỏi nếu mỗi bài viết tôi phải mất rất nhiều thời gian để biên tập. Và như bạn thấy, tôi có thể thoải mái hoàn thành bài viết đầu tiên này chỉ với 3 phút.
 
-Gửi lời cám ơn đến [`dan abramov`](https://overreacted.io/) đã mang đến theme tuyệt vời này.
+Gửi lời cám ơn đến [`dan abramov`](https://danabra.mov/) đã mang đến theme tuyệt vời này.
