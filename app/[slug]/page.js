@@ -26,7 +26,7 @@ export default async function PostPage({ params }) {
   }
   const { content, data } = matter(file);
   const discussUrl = `mailto:hi@hirovu.com?Subject=${encodeURIComponent(
-    `RE: ${params.title}`,
+    `RE: ${data.title}`,
   )}`;
   const editUrl = `https://github.com/gaearon/overreacted.io/edit/main/public/${encodeURIComponent(
     params.slug,
