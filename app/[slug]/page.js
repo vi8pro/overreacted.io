@@ -25,8 +25,8 @@ export default async function PostPage({ params }) {
     }
   }
   const { content, data } = matter(file);
-  const discussUrl = `https://x.com/search?q=${encodeURIComponent(
-    `https://overreacted.io/${params.slug}/`,
+  const discussUrl = `mailto:hi@hirovu.com?Subject=${encodeURIComponent(
+    `RE: ${params.title}`,
   )}`;
   const editUrl = `https://github.com/gaearon/overreacted.io/edit/main/public/${encodeURIComponent(
     params.slug,
@@ -75,9 +75,7 @@ export default async function PostPage({ params }) {
         />
         <hr />
         <p>
-          <Link href={discussUrl}>Discuss on 𝕏</Link>
-          &nbsp;&nbsp;&middot;&nbsp;&nbsp;
-          <Link href={editUrl}>Edit on GitHub</Link>
+          <Link href={discussUrl}>Give your feedback</Link>
         </p>
       </div>
     </article>
