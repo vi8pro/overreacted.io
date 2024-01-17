@@ -12,7 +12,7 @@ export default function RootLayout({ children }) {
           <header className="mb-14 flex flex-row place-content-between">
             <HomeLink />
             <span className="relative top-[4px] italic">
-              <Link href="mailto:%22Hiro%20Vu%22%3Chi%40hirovu.com%3E" target="_blank">
+              <Link href="mailto:hi@hirovu.com?Subject=Hi%20Hiro%21" target="_blank">
                 <svg
                   fill="currentColor"
                   width="30"
