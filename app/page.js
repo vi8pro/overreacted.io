@@ -9,8 +9,8 @@ export const metadata = {
   description: "A personal blog by Hiro Vu",
   alternates: {
     types: {
-      "application/atom+xml": "https://overreacted.io/atom.xml",
-      "application/rss+xml": "https://overreacted.io/rss.xml",
+      "application/atom+xml": "https://hirovu.com/atom.xml",
+      "application/rss+xml": "https://hirovu.com/rss.xml",
     },
   },
 };

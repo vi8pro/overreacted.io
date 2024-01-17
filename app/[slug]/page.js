@@ -28,9 +28,6 @@ export default async function PostPage({ params }) {
   const discussUrl = `mailto:hi@hirovu.com?Subject=${encodeURIComponent(
     `RE: ${data.title}`,
   )}`;
-  const editUrl = `https://github.com/gaearon/overreacted.io/edit/main/public/${encodeURIComponent(
-    params.slug,
-  )}/index.md`;
   return (
     <article>
       <h1
