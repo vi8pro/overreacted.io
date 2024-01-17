@@ -19,9 +19,9 @@ export default function RootLayout({ children }) {
                   width="30"
                   version="1.1"
                   xmlns="http://www.w3.org/2000/svg"
-                  xmlns:xlink="http://www.w3.org/1999/xlink"
+                  xmlnsXlink="http://www.w3.org/1999/xlink"
                   viewBox="-143 145 512 512"
-                  xml:space="preserve"
+                  xmlSpace="preserve"
                   className="relative -top-1 mx-1 inline h-8 w-8 rounded-full"
                 >
                   <path
