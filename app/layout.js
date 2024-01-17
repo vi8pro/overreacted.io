@@ -12,20 +12,17 @@ export default function RootLayout({ children }) {
           <header className="mb-14 flex flex-row place-content-between">
             <HomeLink />
             <span className="relative top-[4px] italic">
-              <Link href="https://www.facebook.com/hungvu.ecom" target="_blank">
+              <Link href="mailto:hi@hirovu.com" target="_blank">
                 <svg
                   fill="currentColor"
-                  height="30"
                   width="30"
-                  version="1.1"
+                  height="30"
+                  viewBox="0 0 20 20"
                   xmlns="http://www.w3.org/2000/svg"
-                  xmlnsXlink="http://www.w3.org/1999/xlink"
-                  viewBox="-143 145 512 512"
-                  xmlSpace="preserve"
                   className="relative -top-1 mx-1 inline h-8 w-8 rounded-full"
                 >
                   <path
-                    d="M113,145c-141.4,0-256,114.6-256,256s114.6,256,256,256s256-114.6,256-256S254.4,145,113,145z M169.5,357.6l-2.9,38.3h-39.3v133H77.7v-133H51.2v-38.3h26.5v-25.7c0-11.3,0.3-28.8,8.5-39.7c8.7-11.5,20.6-19.3,41.1-19.3c33.4,0,47.4,4.8,47.4,4.8l-6.6,39.2c0,0-11-3.2-21.3-3.2c-10.3,0-19.5,3.7-19.5,14v29.9H169.5z"
+                    d="M10 .4C4.698.4.4 4.698.4 10s4.298 9.6 9.6 9.6 9.6-4.298 9.6-9.6S15.302.4 10 .4zM6.231 7h7.52c.399 0 .193.512-.024.643-.217.13-3.22 1.947-3.333 2.014s-.257.1-.403.1a.793.793 0 0 1-.402-.1L6.255 7.643C6.038 7.512 5.833 7 6.231 7zM14 12.5c0 .21-.252.5-.444.5H6.444C6.252 13 6 12.71 6 12.5V8.853c0-.092-.002-.211.172-.11l3.417 2.015a.69.69 0 0 0 .402.1c.146 0 .252-.011.403-.1l3.434-2.014c.174-.102.172.018.172.11V12.5z"
                   />
                 </svg>
               </Link>
