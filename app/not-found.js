@@ -17,7 +17,7 @@ export default function NotFound() {
         <p>This page doesn't exist (yet?)</p>
         <p>
           I recently rewrote the site so maybe something broke. Please{" "}
-          <Link href="mailto:hi@hirovu.com">
+          <Link href="mailto:hi@hirovu.com?Subject=Something%20broke">
             complain here.
           </Link>
         </p>
